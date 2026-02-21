@@ -2,7 +2,7 @@
 
 
 ## 🎓 About Me
-- 🏫 **CS + Econonomics at Johns Hopkins University** 
+- 🏫 **CS + Economics at Johns Hopkins University** 
 - 🚀 Software Engineer Intern at Live150, ML at Mira
 - 🛠️ Building fullstack ML systems and platforms for clinical and medical applications
 
